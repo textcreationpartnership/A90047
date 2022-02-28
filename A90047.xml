@@ -1,0 +1,452 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Generall Lessley's direction and order for the exercising of horse and foot. Being a most exact, compendeous, and necessary direction for all such as are studiously devoted to the due exercise of armes, and principally intended for the young sort of the militia.</title>
+            <author>Newark, David Leslie, Baron, d. 1682.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 20 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A90047</idno>
+            <idno type="STC">Wing N837</idno>
+            <idno type="STC">Thomason E151_14</idno>
+            <idno type="STC">ESTC R20614</idno>
+            <idno type="EEBO-CITATION">99865317</idno>
+            <idno type="PROQUEST">99865317</idno>
+            <idno type="VID">117556</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A90047)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 117556)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 27:E151[14])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Generall Lessley's direction and order for the exercising of horse and foot. Being a most exact, compendeous, and necessary direction for all such as are studiously devoted to the due exercise of armes, and principally intended for the young sort of the militia.</title>
+                  <author>Newark, David Leslie, Baron, d. 1682.</author>
+               </titleStmt>
+               <extent>[2], 11 [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Richard Badger, for L. Blaikelock,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Army --  Drill and tactics --  Early works to 1800.</term>
+               <term>Drill and minor tactics --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-05</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2010-05</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:117556:1" rendition="simple:additions"/>
+            <p>Generall LESSLEY'S DIRECTION AND ORDER <hi>For the exerciſing of</hi> HORSE AND FOOT.</p>
+            <p>BEING A moſt Exact, Compendeous, and Neceſſary Direction for all ſuch as are ſtudiouſly devoted to the due Exerciſe of ARMES, and principally intended for the young ſort of the MILITIA.</p>
+            <p>LONDON. Printed by <hi>Richard Badger,</hi> for <hi>L. Blaikelock.</hi> 1642.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:117556:2"/>
+            <head>To the Reader.</head>
+            <opener>
+               <salute>Deare Countrie-man.</salute>
+            </opener>
+            <p>MY zeale for the publike good hath in<g ref="char:EOLhyphen"/>vited me to expoſe this ſhort, but ex<g ref="char:EOLhyphen"/>cellent Treatiſe to the publike view, being without controverſie, the beſt of all moderne Tracts upon this Subject. I need not amply<g ref="char:EOLhyphen"/>fie my ſelfe by way of Apologie in commen<g ref="char:EOLhyphen"/>dation of the worke, where Leſleyes name ſhall command in chiefe, nothing doubting, but every noble ſpirit will willingly follow ſuch a Leader, to whoſe conduct and directi<g ref="char:EOLhyphen"/>on I leave you.</p>
+            <closer>
+               <salute>Farewell.</salute>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:117556:2" rendition="simple:additions"/>
+            <head>Generall LESSLEY'S DIRECTION AND ORDER <hi>For the exerciſing of a</hi> FOOTE COMPANY, The Files being eight deepe.</head>
+            <head type="sub">And that they frame their Companies, two parts Musketeers, and the third part Pikes.</head>
+            <p>
+               <hi>STand right in your Files.</hi>
+            </p>
+            <p>
+               <hi>Stand right in your Rankes.</hi>
+            </p>
+            <p>
+               <hi>Silence.</hi>
+            </p>
+            <p>
+               <hi>To the Right hand.</hi>
+            </p>
+            <p>
+               <hi>As you were.</hi>
+            </p>
+            <p>Note, when you are commanded to be as you were, you are ever to turne to the contrary hand from whence you came.</p>
+            <p>
+               <hi>To the left hand.</hi>
+            </p>
+            <pb n="2" facs="tcp:117556:3"/>
+            <p>
+               <hi>As you were.</hi>
+            </p>
+            <p>
+               <hi>To the right hand about.</hi>
+            </p>
+            <p>
+               <hi>As you were</hi>
+            </p>
+            <p>
+               <hi>To the left hand about.</hi>
+            </p>
+            <p>
+               <hi>As you were.</hi>
+            </p>
+            <p>
+               <hi>Rankes to the right hand double.</hi>
+            </p>
+            <p>
+               <hi>As you were.</hi>
+            </p>
+            <p>
+               <hi>Rankes to the left hand double.</hi>
+            </p>
+            <p>
+               <hi>As you were.</hi>
+            </p>
+            <p>
+               <hi>Files to the right hand double.</hi>
+            </p>
+            <p>
+               <hi>As you were.</hi>
+            </p>
+            <p>
+               <hi>Files to the left hand double.</hi>
+            </p>
+            <p>
+               <hi>As you were.</hi>
+            </p>
+            <p>
+               <hi>Halfe Files to your right hand, double your front.</hi>
+            </p>
+            <p>
+               <hi>As you were.</hi>
+            </p>
+            <p>
+               <hi>Halfe Files to the left hand, double your front.</hi>
+            </p>
+            <p>
+               <hi>As you were.</hi>
+            </p>
+            <p>
+               <hi>Rankes to the Right hand countermarch.</hi>
+            </p>
+            <p>When you will countermarch to the right hand, the firſt ranke of Leaders only muſt advance one ſtep <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>orwards with the right leg, and then turne, and all the other rankes muſt march firſt up to the place from whence the firſt ranke did countermarch before they turned.</p>
+            <p>
+               <hi>Rankes to the left hand countermarch.</hi>
+            </p>
+            <p>Obſerve, that if you will now countermarch to the left hand, the firſt ranke muſt ſtep forward, one ſtep with the left leg, and then turne, and all the other rankes behind muſt come up to that place before they turne where the Serjants ſtands.</p>
+            <div type="part">
+               <head>Obſervations before you wheel.</head>
+               <p>IF you will wheel to the right hand you muſt double your rankes to the left, and if you wheel to the left, you muſt double to the right.</p>
+               <p>
+                  <hi>Rankes to the right hand double.</hi>
+               </p>
+               <p>
+                  <hi>Files cloſe to the right hand, to the cloſe order.</hi>
+               </p>
+               <p>
+                  <hi>Rankes cloſe up to the ſwords point.</hi>
+               </p>
+               <pb n="3" facs="tcp:117556:3"/>
+               <p>Note, that when you will wheel to the right hand, that the Leader of the right hand file muſt keepe his Musket-reſt fixt to the ground, and muſt only turn his body without looſing of any ground, and alſo the left hand leader if you wheel to the left.</p>
+               <p>
+                  <hi>To the right hand wheel,</hi> or, <hi>To the left hand wheel.</hi>
+               </p>
+               <p>Having wheeled to bring them to their former order, you muſt uſe theſe words of command.</p>
+               <p>Firſt to the Rankes that were cloſed to the ſwords.</p>
+               <p>
+                  <hi>Rankes, backwards to your double diſtance of twelve foot.</hi>
+               </p>
+               <p>
+                  <hi>Open your Files to the left hand of three foot.</hi>
+               </p>
+               <p>And then ſpeaking to the Rankes that were firſt doubled,</p>
+               <p>
+                  <hi>Rankes, as you were.</hi>
+               </p>
+               <p>Having performed the former motions; you may after<g ref="char:EOLhyphen"/>wards exerciſe your company of Pikes and Musketeers toge<g ref="char:EOLhyphen"/>ther, or each a part.</p>
+               <p>To begin with the Pikes, you may command them to doe theſe motions ſtanding, <hi>viz.</hi>
+               </p>
+               <p>
+                  <hi>Advance your Pikes,</hi>
+               </p>
+               <p>
+                  <hi>Order your Pikes.</hi>
+               </p>
+               <p>
+                  <hi>Shoulder your Pikes.</hi>
+               </p>
+               <p>
+                  <hi>Charge your Pikes.</hi>
+               </p>
+               <p>
+                  <hi>Order your Pikes.</hi>
+               </p>
+               <p>
+                  <hi>Trayle your Pikes.</hi>
+               </p>
+               <p>
+                  <hi>Cheeke your pikes.</hi>
+               </p>
+               <p>But theſe motions are to bee performed both ſtanding and marching.</p>
+               <p>
+                  <hi>Charge your Pikes.</hi>
+               </p>
+               <p>
+                  <hi>Shoulder your pikes.</hi>
+               </p>
+               <p>
+                  <hi>To the right hand charge.</hi>
+               </p>
+               <p>
+                  <hi>Shoulder your Pikes.</hi>
+               </p>
+               <p>
+                  <hi>To the left hand charge.</hi>
+               </p>
+               <p>
+                  <hi>Shoulder your Pikes.</hi>
+               </p>
+               <p>
+                  <hi>To the Reere charge.</hi>
+               </p>
+               <p>
+                  <hi>Shoulder your Pikes.</hi>
+               </p>
+               <p>
+                  <hi>Port your pikes.</hi>
+               </p>
+               <p>
+                  <hi>Comport your pikes.</hi>
+               </p>
+               <p>
+                  <hi>Charge your Pikes.</hi>
+               </p>
+               <p>
+                  <hi>Shoulder your Pikes.</hi>
+               </p>
+               <pb n="4" facs="tcp:117556:4"/>
+               <p>
+                  <hi>Stand.</hi>
+               </p>
+               <p>
+                  <hi>Charge under hand.</hi>
+               </p>
+               <p>
+                  <hi>Charge your pikes at the foot.</hi>
+               </p>
+               <p>
+                  <hi>Shoulder your Pikes.</hi>
+               </p>
+               <p>
+                  <hi>Order your Pikes.</hi>
+               </p>
+               <p n="1">1. Firſt note that in Charging, halfe the Ranks only muſt charge their Pikes, the other hindmoſt halfe of their rankes doe but port their Pikes, that is, they carry them ſo couched over the heads of the formoſt, as may give them no offence in charging, or retering: beſides, this way the Pikes are not ſo ſubject to be broken by the ſhot of the enemy, as when they are advanced.</p>
+               <p n="2">2. They muſt likewiſe obſerve, when they charge ſtanding to fall backe with the right Leg, and marching to ſtep forward with the left.</p>
+               <p n="3">3. The exerciſing of your Musketerees is likewiſe perfor<g ref="char:EOLhyphen"/>med either ſtanding or marching, that is, either by Rankes or by Files after three manner of wayes, alwayes blowing your match, moving your right leg formoſt, when you are ready to preſent.</p>
+               <list>
+                  <item>1. Having an enemy in your front.</item>
+                  <item>2. In your Reere.</item>
+                  <item>3. Vpon the right or left hand Flanke.</item>
+               </list>
+               <p>Note alſo that the firſt Ranke falling back with their right legs, lyes on, gives fire, and the firſt ranke falling away, the ſe<g ref="char:EOLhyphen"/>cond in ranke preſenting having their pans guarded, blowes their matches, o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ens their pans, and ſteps forward with their right legs, into the place of the firſt ranke, lyes on, gives fire, and fall away, whiles the reſt of the body of Musketeeres move up to their places, and ſo two rankes at a time making ready, you may give fire ſo often as you lif<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</p>
+               <p>Obſerve that in charging of an Enemy, that the right hand Wing fall off to the right hand, and the left hand Wing to the left, and the Officers are to give the ſame word of Com<g ref="char:EOLhyphen"/>mand.</p>
+               <p>The Musketeers are to have a ſingular care to carry the mouthes of their Muskets aloft, aſwell when they are ſhoul<g ref="char:EOLhyphen"/>dred
+<pb n="5" facs="tcp:117556:4"/>as in priming, as alſo when they keepe their pans guar<g ref="char:EOLhyphen"/>ded, and come up to give fire.</p>
+               <p>Moreover if an enemy ſhall appeare on either your right or left Flanke, and that you reſolve to maintaine your ground, and would gall him from either Flanke, it is performed by giving firſt the words of command, To the right hand or left hand which you pleaſe, and then making an intervall of ſix foot diſtance betweene the middlemoſt leader of the halfe Files, for the halfe Ranke on the left hand doe fall away betweene the Files, to the Reere before the Pikes, and the halfe Ranke on the right hand, on the right Flanke, likewiſe you may give fire, from either or both Flankes as <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ften as you liſt.</p>
+               <p>Againe, if an enemy ſhould ſhew himſelfe in your Reere, the like is done by this terme of direction:</p>
+               <p>
+                  <hi>To the right hand about.</hi>
+               </p>
+               <p>And having given fire upon them, fall away to the place where the Front ſtood, even in the ſame Manner as you did before.</p>
+               <p>In advancing towards an enemy, two Rankes muſt alwayes make ready together, and advance ten paces forward before the body, at which diſtance a Serjant, or when the body is great, ſome other Officer muſt ſtand, to whom the Musket<g ref="char:EOLhyphen"/>teers muſt come before they preſent and give fire, firſt, the firſt Ranke, a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d while the firſt ranke gives fire, the ſecond keepe their Muske<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s cloſe to their reſts, and their pans guarded, and aſſone as the firſt are fallen away, the ſecond preſently preſents, gives fire, and fall after them. Now as ſoone as the two firſt rankes doe moove from their places in the front, the two Rankes next it muſt unſhoulder their Muskets and make ready, ſo as they may advance forward ten paces as before, as ſoone as ever the two firſt Rankes are fallen away, and are to doe in all points as the former, ſo all the other rankes through the whole company or diviſion muſt doe the ſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>me by two so<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e after another.</p>
+            </div>
+            <div type="part">
+               <pb n="6" facs="tcp:117556:5"/>
+               <head>A way how to give fire retreating from an enemie:</head>
+               <p>AS the Troope marcheth, the hindmoſt ranke of all keep<g ref="char:EOLhyphen"/>ing ſtill with the Troope, maketh ready, and being rea<g ref="char:EOLhyphen"/>dy, the ſouldiers in tha<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ranke turne altogether to the right hand and give fire, marching preſently away a good round pace to the front, and there place themſelves in rankes toge<g ref="char:EOLhyphen"/>ther juſt before the front, as ſoone as the firſt ranke turne to give fire, the ranke next it make ready and doth as the former, and ſo all the Reſt.</p>
+               <p>Laſt of all the Troope or wing of the Musketeers make ready altogether ſtanding, and the firſt without advancing gives fire, in the place it ſtandeth in, and ſpeedily as may bee, yet orderly falls away, all the Rankes doing the ſame ſucceſ<g ref="char:EOLhyphen"/>ſively one after another.</p>
+            </div>
+            <div type="part">
+               <head>A manner how to give fire, either from the right or left hand Flank.</head>
+               <p>The Company or diviſion marching, the utmoſt file next the enemy, are commanded to make ready, keeping ſtill along with the body, till ſuch time as they be ready, and then they turne all to the right or left hand, according to the ſight of their enemy, either upon the right or left flanke and give fire altogether, when they have diſcharged they ſtirre not, but keepe their ground, and charge their peeces againe in the ſame place they ſtand, now as ſoone as the aforeſaid file doth turne to give fire, the utmoſt next it makes ready alwayes keeping along with the troope, till the bringers up be paſt, a little be<g ref="char:EOLhyphen"/>yond the leaders of the file, that gave fire laſt, And then the whole file muſt turne, and give fire, and do in all points as the firſt did, and ſo all the reſt one after another.</p>
+               <pb n="7" facs="tcp:117556:5"/>
+               <p>A Serjant (or if the troope be great) ſome better qualified Officer muſt ſtand at the head of the firſt File, and as ſoone as the ſecond file hath given fire and hath charged, hee is to lead forwards the firſt file up to the ſecond file, and ſo to the reſt one after another, till he hath gathered up againe the whole wing, and then he is to joyne them again in equall front with the Pikes.</p>
+            </div>
+            <div type="part">
+               <head>The manner of Ordering a Regiment.</head>
+               <p>IF there be ten Companies in a Regiment, conſiſting of a 1000. or 1200. men, they muſt be drawne into two divi<g ref="char:EOLhyphen"/>ſions, five Companies in one diviſion, and becauſe it is not fit that the eldeſt Captaines ſhould be all in one Diviſion, They are thus divided, <hi>viz.</hi>
+               </p>
+               <list>
+                  <item>Collonell.
+<list>
+                        <item>I.</item>
+                        <item>V.</item>
+                        <item>III.</item>
+                     </list>
+                  </item>
+                  <item>Serjant Major.</item>
+                  <item>Lievt. Collonell.
+<list>
+                        <item>IV.</item>
+                        <item>VII.</item>
+                        <item>VI.</item>
+                        <item>II.</item>
+                     </list>
+                  </item>
+               </list>
+               <p n="1">1. The firſt Captaines Company next to the Collonells Company.</p>
+               <p n="2">2. The ſecond Company the left hand of the ſecond di<g ref="char:EOLhyphen"/>viſion.</p>
+               <p n="3">3. The third next to the Serjant Major in the firſt Di<g ref="char:EOLhyphen"/>viſion.</p>
+               <p n="4">4. The fourth next the Lievtenant Collonell in the ſecond Diviſion.</p>
+               <p n="5">5. The fifth in the middle of the firſt Diviſion.</p>
+               <p n="6">6. The ſixth next the ſecond Captaine in the ſecond Di<g ref="char:EOLhyphen"/>viſion.</p>
+               <pb n="8" facs="tcp:117556:6"/>
+               <p n="7">7. The ſeventh next the fourth in the ſecond Diviſion.</p>
+               <p>The Seriants are to march upon the Hankes of the Diviſi<g ref="char:EOLhyphen"/>ons as neere as they can to their owne men to keepe them in their rankes, and from ſtragling.</p>
+               <p>The Drummers betwixt the third, and fourth Rankes. But if the Regiment march in Battaile, then in the flankes of the Regiment as equall with the third ranke in the Front, and ſo likewiſe in the flankes of the Pikes.</p>
+            </div>
+            <div type="part">
+               <head>The Demonſtration of Places in a Regiment.</head>
+               <p>THe firſt Captaine leades the Van of Pikes.</p>
+               <p>The ſecond the Reere of the Pikes.</p>
+               <p>The third, the firſt diviſion of Musketeers.</p>
+               <p>The Collonells Captaine ſhall leade the Vanguard of the Musketeeres in the right wing upon the left hand of the third Captaine.</p>
+               <p>The fi ſt Leader to lead the ſecond diviſion of Musketeers.</p>
+               <p>The ſecond to bring up the Reere of all.</p>
+               <p>The third to leade up the ſecond diviſion of Pikes.</p>
+               <p>The fourth to bring up the right wing of the Musketeers</p>
+               <p>But becauſe the abſence of Captaines may be ſuch, as the Regiment may want the principall places of leading, it is in the Collonells will to diſpoſe of the places of leading, as hee ſhall find fitting.</p>
+               <p>The Serjant major of every Regiment to have a ſpeciall care, before the Regiment moves out of the Quarter, to call upon the Captaines for their odd men of every Company, to make Files of them. And for the over plus, which cannot be above in number, ſhall march in the Reere of the Regiment, before the Officer that brings up the Regiment, not disban<g ref="char:EOLhyphen"/>ding themſelves.</p>
+               <p>Vpon the very motion that the Drummes begin to beat a march, the hindermoſt Rankes ſhall march forwards together as well as the firſt Rankes, that the hinder moſt Rankes need
+<pb n="9" facs="tcp:117556:6"/>not come or march away faſter then the formoſt.</p>
+               <p>The diſtance betweene the Rankes in marching, ſhall bee ſix foote one from the other, ſo that the butt-ends of the pikes ſhall almoſt touch the heeles of them that March before them.</p>
+               <p>The files ſhall bee no more than three foot diſtance one from the other.</p>
+               <p>When a Regiment marcheth in diviſion, then the halfe of the Musketeeres ſhall march before the Pikes, and the Pikes in the midſt, and the other halfe of the Musketeeres to bee in the Reere of the Pikes.</p>
+               <p>Obſerving well, that they muſt March ten in front at the leaſt, if the way be fit thereunto, keeping alwayes the di<g ref="char:EOLhyphen"/>ſtances both in Ranke, and file, as aforeſaid.</p>
+               <p>The Officer that ſhall leade any part of the Regiment, ſhall take up no more <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lace than the ſpace of a Ranke, which is ſix foot, to the end they may follow one another the better, and ſo neither looſe time nor place in marching. As for the Officer that ſhall march after any part of the Regi<g ref="char:EOLhyphen"/>ment or Diviſion, he ſhall follow the laſt Ranke of them, that march before him, obſerving the diſtance of ſix foote, to the end that betwixt him, and the Officer that ſhall leade any part or deviſion of the Regiment following, there may be likewiſe ſix foot, and ſo betweene the firſt and ſecond divi<g ref="char:EOLhyphen"/>ſion there muſt be eighteene foot diſtance.</p>
+               <p>If the Regiment be divided and lead in two troopes, the ſecond diviſion of the Regiment ſhall follow the firſt, about the diſtance of ten or twelve paces, and no larger.</p>
+               <p>The diſtance betweene the Regiments that march one af<g ref="char:EOLhyphen"/>ter another, ſhall be eighteene or twenty paces, to wit, ſix foot for the Officer that marcheth in the Reere of the Regi<g ref="char:EOLhyphen"/>ment, and ſix foot for the Officer that leades in the front of the next Regiment, and the reſt of the place betweene both the Officers aforeſaid, and where there is roome enough the Regiment ſhall march cloſe, and in a body, obſerving ever<g ref="char:EOLhyphen"/>more the diſtance of Rankes and Files as aforeſaid.</p>
+               <p>Betweene every five files at the moſt, and betweene every three Files at the leaſt of Musketeeres, they ſhall leave a ſpace
+<pb n="10" facs="tcp:117556:7"/>of ſix foote bread, keeping as much as poſſible may be the Mu<g ref="char:EOLhyphen"/>sketeeres of one company together, not marching but in fight.</p>
+               <p>When the Regiment ſtands in Battaile, and that the regi<g ref="char:EOLhyphen"/>ment conſiſts of two diviſions, each diviſion ſhall be fiftie foot diſtant one from another.</p>
+               <p>And the Musketeers of a Regiment being more in num<g ref="char:EOLhyphen"/>ber than the Pikes, and conſequently falling out broader than the front or diviſion of Pikes, they ſhall cloſe inwards, to<g ref="char:EOLhyphen"/>wards both the troopes of the pikes which ſtand before them.</p>
+               <p>But if ſo be the number of Musketeers be two great, and that by reaſon of the intervals, or the ſpaces of ſix foote, that are to be made betweene them for their number having no place to fall or cloſe inward without touching one another, then the two troopes of Musketeers on both ſides of the pikes after whom they ſtand ſhall fall outwards.</p>
+               <p>The Enſignes of every regiment are to march with their Colours in the Front, ſix foote before the pikes when they march in a body, and in this Barracado to be alwayes ready to vayle their Colours when the Generall paſſeth by, But when they march in Battaile as command ſhall be given, all the En<g ref="char:EOLhyphen"/>ſignes of each diviſion are to goe down before the fourth and fifth rank, but the Collonels owne Colours to fly in the ſecond ranke, The ſame to be done in the ſecond diviſion, if you come to charge with an enemy, then for good reaſons let the Co<g ref="char:EOLhyphen"/>lonels Colours fall back to the reſt. If the Lord Generall paſ<g ref="char:EOLhyphen"/>ſeth by, make the Body move their faces, either in Flank or reere, which way he paſſeth.</p>
+               <p>That no Waggons ſhall be ſuffered to march betweene the regiments or Diviſion, only each Collonell one, which is to march in the Front of his Regiment, and the Commander of every Tertia to have two in the head of the Tertia, beſides one of their owne Waggons in the head of their owne Regiment, and if their owne regiment have the Vanguard of the Tertia, Then they are to have three Waggons.</p>
+               <p>And for the Waggons of the Captaines to march in the Reere of the Army in their ſenioritie, according as their
+<pb n="11" facs="tcp:117556:7"/>Collonells marcheth that day, and are to be ſo ordered by the Carriage Maſter.</p>
+               <p>And when the whole is thus Marſhalled and at any time ſhall come to make a ſtand, either at noone-tide to eate, and re<g ref="char:EOLhyphen"/>poſe, or at eventide to reſt, till the quarter be made, then the Tertia ſhall be lead up to the places, all three in front, each Regiment in diviſion one after another at fifty foot, each re<g ref="char:EOLhyphen"/>giment at an hundred foot, and each Tertia diſtant in flanke from other about 150. foot, ſometimes if the ground will give it, then the two diviſions of each Regiment ſhall ſtand in front, and ſo the regiments following in that order, and alſo in this order conformable, all the three Tertians, ſide by ſide, and ſo ſhall all the Cannons and Waggons front up in this wiſe in breadth, That the traine may be ſhortned, into a neere com<g ref="char:EOLhyphen"/>paſſe; which is done to keepe the Army cloſe, and in farre di<g ref="char:EOLhyphen"/>ſtance in the Reere.</p>
+               <p>This order is to be obſerved eſpecially as the Generall ſhall find fitting, to give command for it, or otherwiſe not.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="to_the_reader">
+            <pb facs="tcp:117556:8"/>
+            <opener>
+               <salute>Courteous Reader,</salute>
+            </opener>
+            <p>WHen the Title Page of this booke firſt came to the preſſe, the like direction was intended for the Horſe, as thou here findest for the Foot: but ſome defects appearing in the Copie, in the Publiſhers obſence, I held it not faire to abuſe thy credulity.</p>
+            <pb facs="tcp:117556:8"/>
+         </div>
+      </back>
+   </text>
+</TEI>
